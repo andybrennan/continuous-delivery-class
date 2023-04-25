@@ -31,7 +31,7 @@ If you are using Windows, please install the Windows Subsystem for Linux (https:
 * Optionally, if you are interested in using vim like I do in the video, check out https://github.com/wickett/wickett-vim
 
 This video assumes you setup a github account and added appropriate keys.
-When you do the git clone of https://github.com/wickett/word-cloud-generator it is important to put that in $GOPATH/src/github.com/wickett/word-cloud-generator
+When you do the git clone of https://github.com/wickett/word-cloud-generator it is important to put that in `jenkins_home/workspace/word-cloud-generator-build/src/github.com/wickett/word-cloud-generator`
 
 ## Continuous Integration in Action And Artifacts In Action
 
